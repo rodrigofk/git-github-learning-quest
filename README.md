@@ -1,8 +1,8 @@
 # Jornada Gamificada de Git e GitHub
 
-Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [DIO](https://www.dio.me/).
+<figure><img src=".gitbook/assets/git-github-cutout.png" alt="" width="188"><figcaption></figcaption></figure>
 
-> Acesse o Curso "[**Versionamento de Código com Git e GitHub**](https://www.dio.me/courses/versionamento-de-codigo-com-git-e-github)" na plataforma da [DIO](https://www.dio.me/).
+> Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso "[**Versionamento de Código com Git e GitHub**](https://www.dio.me/courses/versionamento-de-codigo-com-git-e-github)" na plataforma da [DIO](https://www.dio.me/).
 
 ## 🕹️ Objetivo
 
