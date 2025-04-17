@@ -1,7 +1,3 @@
----
-icon: pen-field
----
-
 # Criando Apelidos para os Comandos
 
 ### Git Aliases: Adicionando apelidos para os comandos do Git

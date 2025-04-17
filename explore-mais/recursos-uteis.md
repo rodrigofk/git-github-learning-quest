@@ -1,6 +1,2 @@
----
-icon: link
----
-
-# Recursos Úteis
+# 🔗 Recursos Úteis
 

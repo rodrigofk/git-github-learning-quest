@@ -1,7 +1,5 @@
 # Alterando a Mensagem de um Commit
 
-#### Como alterar a mensagem do último commit
-
 ```bash
 $ git commit --amend
 ```
