@@ -2,11 +2,11 @@
 
 * [Jornada Gamificada de Git e GitHub](README.md)
 
-## Nível 1: Conhecendo o Mundo
+## Nível 1: Conhecendo o Universo
 
-* [O que é Versionamento de Código?](nivel-1-conhecendo-o-mundo/o-que-e-versionamento-de-codigo.md)
-* [O que é Git?](nivel-1-conhecendo-o-mundo/o-que-e-git.md)
-* [O que é GitHub?](nivel-1-conhecendo-o-mundo/o-que-e-github.md)
+* [O que é Versionamento de Código?](nivel-1-conhecendo-o-universo/o-que-e-versionamento-de-codigo.md)
+* [O que é Git?](nivel-1-conhecendo-o-universo/o-que-e-git.md)
+* [O que é GitHub?](nivel-1-conhecendo-o-universo/o-que-e-github.md)
 
 ## Nível 2: Preparando o Ambiente
 
