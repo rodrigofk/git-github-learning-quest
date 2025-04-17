@@ -39,5 +39,5 @@
 
 ## Explore Mais
 
-* [Criando Apelidos para os Comandos](explore-mais/criando-apelidos-para-os-comandos.md)
+* [⌨️ Criando Apelidos para os Comandos](explore-mais/criando-apelidos-para-os-comandos.md)
 * [🔗 Recursos Úteis](explore-mais/recursos-uteis.md)
