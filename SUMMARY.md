@@ -22,10 +22,7 @@
 
 * [Criando uma Nova Branch](nivel-4-trabalhando-com-branches/criando-uma-nova-branch.md)
 * [Mesclando Branches](nivel-4-trabalhando-com-branches/mesclando-branches.md)
-
-***
-
-* [Resolvendo Conflitos de Merge](resolvendo-conflitos-de-merge.md)
+* [Resolvendo Conflitos de Merge](nivel-4-trabalhando-com-branches/resolvendo-conflitos-de-merge.md)
 
 ## Nível 5: Integrando com GitHub
 

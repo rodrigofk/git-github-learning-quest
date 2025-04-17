@@ -6,16 +6,14 @@ layout:
   description:
     visible: false
   tableOfContents:
-    visible: true
+    visible: false
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
 ---
 
 # O que é Versionamento de Código?
-
-## O que é Versionamento de Código?
 
 Versionamento de código é uma forma de controlar e registrar todas as alterações feitas no código de um projeto ao longo do tempo. Com ele, é possível salvar versões anteriores, voltar atrás em caso de erro, acompanhar quem fez cada modificação e permitir que várias pessoas trabalhem juntas sem conflitos.
 
