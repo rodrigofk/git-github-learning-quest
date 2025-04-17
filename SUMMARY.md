@@ -10,9 +10,9 @@
 
 ## Nível 2: Preparando o Ambiente
 
-* [Instalando o Git](nivel-2-preparando-o-ambiente/02-instalacao-configuracao-e-autenticacao.md)
+* [Instalando o Git](nivel-2-preparando-o-ambiente/instalando-o-git.md)
 * [Configurando o Git](nivel-2-preparando-o-ambiente/configurando-o-git.md)
-* [Criando e Clonando Repositórios](nivel-2-preparando-o-ambiente/03-primeiros-passos-com-git-e-github.md)
+* [Criando e Clonando Repositórios](nivel-2-preparando-o-ambiente/criando-e-clonando-repositorios.md)
 
 ## Nível 3: Rastreando Mudanças
 
@@ -40,4 +40,4 @@
 ## Explore Mais
 
 * [Criando Apelidos para os Comandos](explore-mais/criando-apelidos-para-os-comandos.md)
-* [Recursos Úteis](explore-mais/04-dicas-e-materiais-de-apoio.md)
+* [Recursos Úteis](explore-mais/recursos-uteis.md)

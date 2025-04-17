@@ -1,6 +1,6 @@
 # Instalando o Git
 
-### Instalando o Git no Windows
+#### Instalando o Git no Windows
 
 * Acesse < https://git-scm.com/download/win >;
 * Faça o download do instalador e execute;
@@ -9,9 +9,7 @@
 
 ¹Em "Select Components“, deixe as opções “Git Bash Here” e “Git GUI Here” marcadas.
 
-
-
-### Instalando o Git no Linux (Ubuntu)
+#### Instalando o Git no Linux (Ubuntu)
 
 * Confira a doc.: < https://git-scm.com/download/linux >;
 *   Instale a última versão estável do Git:
@@ -28,9 +26,7 @@
     # apt install git
     ```
 
-
-
-### Instalando o Git no macOS
+#### Instalando o Git no macOS
 
 * Confira a doc.: < https://git-scm.com/download/mac>;
 * Instale o Homebrew: < https://brew.sh/ >;
@@ -39,8 +35,4 @@
     ```
     $ brew install git
     ```
-
-
-
-###
 
