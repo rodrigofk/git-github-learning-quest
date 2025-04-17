@@ -12,7 +12,7 @@ Aprender os conceitos fundamentais de versionamento de código até técnicas ma
 
 ### 🪄 Recursos Adicionais
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Curso "<a href="https://www.dio.me/courses/versionamento-de-codigo-com-git-e-github"><strong>Versionamento de Código com Git e GitHub</strong></a>" na plataforma da <a href="https://www.dio.me/">DIO</a>.</td><td><a href=".gitbook/assets/git-github.png">git-github.png</a></td></tr></tbody></table>
+<table><thead><tr><th width="119">Tipo</th><th>Link</th></tr></thead><tbody><tr><td>Curso</td><td><a href="https://www.dio.me/courses/versionamento-de-codigo-com-git-e-github"><strong>Versionamento de Código com Git e GitHub</strong></a> na plataforma da <a href="https://www.dio.me/">DIO</a></td></tr></tbody></table>
 
 
 
