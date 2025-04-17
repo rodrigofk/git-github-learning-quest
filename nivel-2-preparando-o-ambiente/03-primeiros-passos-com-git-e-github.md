@@ -1,18 +1,3 @@
----
-icon: folders
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Criando e Clonando Repositórios
 
 Existem duas formas de obter um repositório Git na sua máquina:

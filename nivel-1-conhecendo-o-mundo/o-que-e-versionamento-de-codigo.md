@@ -1,7 +1,3 @@
----
-icon: laptop
----
-
 # O que é Versionamento de Código?
 
 Versionamento de código é uma forma de controlar e registrar todas as alterações feitas no código de um projeto ao longo do tempo. Com ele, é possível salvar versões anteriores, voltar atrás em caso de erro, acompanhar quem fez cada modificação e permitir que várias pessoas trabalhem juntas sem conflitos.

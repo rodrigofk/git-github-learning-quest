@@ -1,18 +1,3 @@
----
-icon: laptop
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Instalando o Git
 
 ### Instalando o Git no Windows

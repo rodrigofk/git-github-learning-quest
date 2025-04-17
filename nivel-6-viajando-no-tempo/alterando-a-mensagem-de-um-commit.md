@@ -1,18 +1,3 @@
----
-icon: message-pen
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Alterando a Mensagem de um Commit
 
 #### Como alterar a mensagem do último commit
