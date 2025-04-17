@@ -1,12 +1,12 @@
 # Jornada Gamificada de Git e GitHub
 
-<figure><img src=".gitbook/assets/git-github-cutout.png" alt="" width="188"><figcaption></figcaption></figure>
+<table data-header-hidden><thead><tr><th width="167"></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/git-github.png" alt=""></td><td>Vamos explorar juntos o universo do Git e do GitHub, aprendendo desde os conceitos fundamentais de versionamento de código até técnicas mais avançadas de colaboração e manipulação de histórico. A cada nível, vamos desbloquear novos conhecimentos, sempre com tarefas práticas e objetivos claros, para que você ganhe confiança ao versionar seus projetos 😊</td></tr></tbody></table>
 
 > Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso "[**Versionamento de Código com Git e GitHub**](https://www.dio.me/courses/versionamento-de-codigo-com-git-e-github)" na plataforma da [DIO](https://www.dio.me/).
 
 ## 🕹️ Objetivo
 
-Vamos explorar juntos o universo do Git e do GitHub, aprendendo desde os conceitos fundamentais de versionamento de código até técnicas mais avançadas de colaboração e manipulação de histórico. A cada nível, vamos desbloquear novos conhecimentos, sempre com tarefas práticas e objetivos claros, para que você ganhe confiança ao versionar seus projetos 😊
+Aprender os conceitos fundamentais de versionamento de código até técnicas mais avançadas de colaboração e manipulação de histórico.
 
 ## 🗺️ Jornada
 
