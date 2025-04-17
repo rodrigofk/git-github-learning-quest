@@ -1,6 +1,6 @@
 # Jornada Gamificada de Git e GitHub
 
-<table data-header-hidden><thead><tr><th width="167"></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/git-github.png" alt=""></td><td>Vamos explorar juntos o <strong>universo do Git e do GitHub</strong>, aprendendo desde os conceitos fundamentais de <strong>versionamento de código</strong> até técnicas mais avançadas de <strong>colaboração e manipulação de histórico</strong>. A cada nível, vamos desbloquear novos conhecimentos, sempre com tarefas práticas e objetivos claros, para que você ganhe confiança ao versionar seus projetos!</td></tr></tbody></table>
+<table data-header-hidden><tbody><tr><td><img src=".gitbook/assets/git-github.png" alt=""></td><td>Vamos explorar juntos o <strong>universo do Git e do GitHub</strong>, aprendendo desde os conceitos fundamentais de <strong>versionamento de código</strong> até técnicas mais avançadas de <strong>colaboração e manipulação de histórico</strong>. A cada nível, vamos desbloquear novos conhecimentos, sempre com tarefas práticas e objetivos claros, para que você ganhe confiança ao versionar seus projetos!</td></tr></tbody></table>
 
 ## 🕹️ Objetivo
 
