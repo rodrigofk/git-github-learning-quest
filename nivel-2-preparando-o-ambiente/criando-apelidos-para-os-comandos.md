@@ -1,4 +1,4 @@
-# ⌨️ Criando Apelidos para os Comandos
+# Criando Apelidos para os Comandos
 
 ### Git Aliases: Adicionando apelidos para os comandos do Git
 

@@ -13,6 +13,7 @@
 * [Instalando o Git](nivel-2-preparando-o-ambiente/instalando-o-git.md)
 * [Configurando o Git](nivel-2-preparando-o-ambiente/configurando-o-git.md)
 * [Criando e Clonando Repositórios](nivel-2-preparando-o-ambiente/criando-e-clonando-repositorios.md)
+* [Criando Apelidos para os Comandos](nivel-2-preparando-o-ambiente/criando-apelidos-para-os-comandos.md)
 
 ## Nível 3: Rastreando Mudanças
 
@@ -37,7 +38,6 @@
 
 * [Criando um Pull Request](nivel-7-colaborando/criando-um-pull-request.md)
 
-## Explore Mais
+## 📦 Inventário
 
-* [⌨️ Criando Apelidos para os Comandos](explore-mais/criando-apelidos-para-os-comandos.md)
-* [🔗 Recursos Úteis](explore-mais/recursos-uteis.md)
+* [📜 Pergaminho do Controle Temporal de Códigos](inventario/pergaminho-do-controle-temporal-de-codigos.md)
