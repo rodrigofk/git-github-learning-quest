@@ -1,6 +1,6 @@
 # 📜 Pergaminho do Controle Temporal de Códigos
 
-_<mark style="color:yellow;">Item Raro • Pergaminho Mágico • Requer Sintonia com Desenvolvedor</mark>_
+_Item Raro • Pergaminho Mágico • Requer Sintonia com Desenvolvedor_
 
 _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulação do tempo e do espaço no reino do código. Runas brilham sutilmente quando abertas sob a luz dos monitores._
 
@@ -78,7 +78,7 @@ _📜 Este antigo pergaminho contém conhecimentos ancestrais sobre a manipulaç
 
 _📜 Texto no verso do pergaminho:_ _"Aquele que dominar estas runas terá o poder de viajar pelas linhas temporais do código, reescrever a história de seus projetos e colaborar com outros magos desenvolvedores. Use este conhecimento com sabedoria, e que seus commits jamais sejam perdidos nas sombras do esquecimento."_
 
-_<mark style="color:yellow;">+5 de Inteligência</mark>_\
-&#xNAN;_<mark style="color:yellow;">+10 de Colaboração</mark>_\
-&#xNAN;_<mark style="color:yellow;">Resistência a Bugs</mark>_\
-&#xNAN;_<mark style="color:yellow;">Imunidade a Perdas de Código</mark>_
+_+5 de Inteligência_\
+_+10 de Colaboração_\
+_Resistência a Bugs_\
+_Imunidade a Perdas de Código_
