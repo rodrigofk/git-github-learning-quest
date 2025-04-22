@@ -34,9 +34,9 @@
 * [Alterando a Mensagem de um Commit](nivel-6-viajando-no-tempo/alterando-a-mensagem-de-um-commit.md)
 * [Desfazendo um Commit](nivel-6-viajando-no-tempo/desfazendo-um-commit.md)
 
-## Nível 7: Colaborando
+## Nível 7: Colaborando em Projetos
 
-* [Criando um Pull Request](nivel-7-colaborando/criando-um-pull-request.md)
+* [Criando um Pull Request](nivel-7-colaborando-em-projetos/criando-um-pull-request.md)
 
 ## 📦 Inventário
 
